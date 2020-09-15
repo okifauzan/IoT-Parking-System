@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "164157372275",
+    "firebase_url": "https://test-skripsi-aa13e.firebaseio.com",
+    "project_id": "test-skripsi-aa13e",
+    "storage_bucket": "test-skripsi-aa13e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164157372275:android:daf284624d3994e8c4b706",
+        "android_client_info": {
+          "package_name": "com.example.iotparkingsystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164157372275-2or47npt9f9ek3dmrfn1qfktt2g85fug.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.iotparkingsystem",
+            "certificate_hash": "5d7790e3cd791cd360fe9c9d5e3609f9c6ac2b6c"
+          }
+        },
+        {
+          "client_id": "164157372275-je9m84dd9cqvt3rvqgiv75q1k35nqc86.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt9HvwGU37AxYvswiY6MG2ApO-hnp0nBQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164157372275-je9m84dd9cqvt3rvqgiv75q1k35nqc86.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
